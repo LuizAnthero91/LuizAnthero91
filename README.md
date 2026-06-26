@@ -154,13 +154,9 @@ html
 
 <p>
   <strong>LinkedIn:</strong> 
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">Meu LinkedIn</a>
+  <a href="www.linkedin.com/in/luiz-carlos-423181346">Meu LinkedIn</a>
 </p>
 
-<p>
-  <strong>E-mail:</strong> 
-  <a href="mailto:seuemail@email.com">seuemail@email.com</a>
-</p>
 
 <hr>
 
