@@ -1,4 +1,4 @@
-html
+
 <div align="center">
 
   <h1>Olá, eu sou Luiz Carlos 👋</h1>
@@ -18,7 +18,7 @@ html
 
 <hr>
 
-<h2>🚀 Sobre mim</h2>
+<h2>Sobre mim</h2>
 
 <p>
   Sou estudante de Engenharia de Software e venho desenvolvendo projetos práticos
@@ -38,7 +38,7 @@ html
 
 <hr>
 
-<h2>🧠 Tecnologias que estudo e utilizo</h2>
+<h2> Tecnologias que estudo e utilizo</h2>
 
 <div align="center">
 
@@ -68,7 +68,7 @@ html
 
 <hr>
 
-<h2>📌 Áreas de interesse</h2>
+<h2> Áreas de interesse</h2>
 
 <ul>
   <li>Desenvolvimento Backend com Java e Spring Boot</li>
@@ -83,7 +83,7 @@ html
 
 <hr>
 
-<h2>🛠️ Projetos em desenvolvimento</h2>
+<h2> Projetos em desenvolvimento</h2>
 
 <table>
   <tr>
@@ -119,7 +119,7 @@ html
 
 <hr>
 
-<h2>📚 Atualmente estudando</h2>
+<h2> Atualmente estudando</h2>
 
 <ul>
   <li>Java Spring Boot avançado</li>
@@ -133,7 +133,7 @@ html
 
 <hr>
 
-<h2>📊 Estatísticas do GitHub</h2>
+<h2> Estatísticas do GitHub</h2>
 
 <div align="center">
 
@@ -145,7 +145,7 @@ html
 
 <hr>
 
-<h2>📫 Contato</h2>
+<h2> Contato</h2>
 
 <p>
   <strong>GitHub:</strong> 
